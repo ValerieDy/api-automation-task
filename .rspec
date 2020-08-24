@@ -1,0 +1,4 @@
+--format RspecJunitFormatter
+--out rspec.xml
+--require feature_helper
+--format documentation
