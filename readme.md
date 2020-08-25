@@ -1,6 +1,9 @@
+[![Build Status](https://travis-ci.com/ValerieDy/api-automation-task.svg?branch=master)](https://travis-ci.com/github/ValerieDy/api-automation-task)
+
 # Getting Started
 
 These instructions will get you a copy of the project up for testing purposes.
+Status of build available [here](https://travis-ci.com/github/ValerieDy/api-automation-task)
 
 ## Installing
 
