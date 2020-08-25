@@ -14,7 +14,7 @@ Install ruby version manager (​rvm​):
 ```
 Install ruby:
 ```
-rvm install ruby 2.6.5
+rvm install ruby 2.6.3
 ```
 
 Install bundler:
