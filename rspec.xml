@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="rspec" tests="5" skipped="0" failures="0" errors="0" time="1.225378" timestamp="2020-08-25T22:30:46+03:00" hostname="MacBook-Pro.local">
+<testsuite name="rspec" tests="5" skipped="0" failures="0" errors="0" time="1.201724" timestamp="2020-08-26T08:53:48+03:00" hostname="MacBook-Pro.local">
 <properties>
-<property name="seed" value="54338"/>
+<property name="seed" value="25301"/>
 </properties>
-<testcase classname="spec.tests.users_spec" name="Users Success POST should create user" file="./spec/tests/users_spec.rb" time="0.355074"></testcase>
-<testcase classname="spec.tests.users_spec" name="Users PUT should update user" file="./spec/tests/users_spec.rb" time="0.232795"></testcase>
-<testcase classname="spec.tests.users_spec" name="Users PATCH should partially update user" file="./spec/tests/users_spec.rb" time="0.289686"></testcase>
-<testcase classname="spec.tests.users_spec" name="Users DELETE should delete user" file="./spec/tests/users_spec.rb" time="0.228200"></testcase>
-<testcase classname="spec.tests.users_spec" name="Users GET should return user info" file="./spec/tests/users_spec.rb" time="0.116224"></testcase>
+<testcase classname="spec.tests.users_spec" name="Users Success POST should create user" file="./spec/tests/users_spec.rb" time="0.357558"></testcase>
+<testcase classname="spec.tests.users_spec" name="Users PUT should update user" file="./spec/tests/users_spec.rb" time="0.238502"></testcase>
+<testcase classname="spec.tests.users_spec" name="Users PATCH should partially update user" file="./spec/tests/users_spec.rb" time="0.250409"></testcase>
+<testcase classname="spec.tests.users_spec" name="Users DELETE should delete user" file="./spec/tests/users_spec.rb" time="0.244080"></testcase>
+<testcase classname="spec.tests.users_spec" name="Users GET should return user info" file="./spec/tests/users_spec.rb" time="0.107712"></testcase>
 </testsuite>
