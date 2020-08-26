@@ -15,7 +15,7 @@ module Api
     end
 
     def update_partially(id, args)
-      @api.patch("/api/users/#{id}", { "job": args[:job] })
+      @api.patch("/api/users/#{id}", args)
       @api
     end
 

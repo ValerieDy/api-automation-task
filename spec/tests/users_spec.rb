@@ -56,7 +56,7 @@ RSpec.describe 'Users' do
       let!(:job) { FFaker::Company.position }
 
       it 'should partially update user' do
-        response = api.update_partially(user_id, user_data)
+        response = api.update_partially(user_id, {:job => job})
         expect(response.code).to eq(200)
         validate(
           response.body,
